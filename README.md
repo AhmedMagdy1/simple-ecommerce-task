@@ -22,7 +22,7 @@ $ cp .env.example .env
 
 - install required packages
 ```
-$ composer install && php artisan key:generate && npm install
+$ composer install && php artisan key:generate && php artisan storage:link && npm install
 ```
 - build assets 
 ```
