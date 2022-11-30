@@ -24,6 +24,10 @@ $ cp .env.example .env
 ```
 $ composer install && php artisan key:generate && npm install
 ```
+- build assets 
+```
+$ npm run build
+```
 
 - to run migrations, and fake data for all tables 
 ```
