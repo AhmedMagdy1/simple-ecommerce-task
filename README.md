@@ -1,5 +1,10 @@
 ## Products & tags & Categories Task
 
+## Requirements to install laravel 9
+- php >= 8.0
+- node
+- npm
+
 ## Installation
 - clone the repo
 ```
